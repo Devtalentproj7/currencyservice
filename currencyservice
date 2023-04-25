@@ -1,0 +1,5 @@
+sonar-scanner \
+  -Dsonar.projectKey=currencyservice \
+  -Dsonar.sources=. \
+  -Dsonar.host.url=http://16.16.144.225:9000 \
+  -Dsonar.token=sqp_c5e662f5e8c0f9f78fe26c5b96f1849b6043ac23
